@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286177835080",
+    "project_id": "ci-cd-workshop",
+    "storage_bucket": "ci-cd-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286177835080:android:a074ecaab98529f2fd407d",
+        "android_client_info": {
+          "package_name": "mvvm.com.ci_cd_workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286177835080-tscqhfihnk2nh699poke35lmaqd31000.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLnTTGWn8LQP3CbhbhsY0_JV8kMT9kqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286177835080-tscqhfihnk2nh699poke35lmaqd31000.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
